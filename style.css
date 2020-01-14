@@ -11,9 +11,13 @@ body, html {
 }
 
 .bg-img {
-    background: url('background.jpg');
+    background: url('images/background.jpg');
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.img {
+  max-height: 300px
 }
